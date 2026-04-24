@@ -4,7 +4,7 @@
 
 ### Aspiring Software Engineer · Full Stack Developer (MERN) · AI & Linux Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Naresh+👋;Aspiring+Software+Engineer;Full+Stack+Developer+(MERN);AI+%26+Linux+Enthusiast;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Naresh+👋;Aspiring+Software+Engineer;Full+Stack+Developer+(MERN);AI+%26;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
 
 </div>
 
