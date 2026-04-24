@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Naresh%20Ashok%20Mali&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Linux%20Enthusiast&descAlignY=58&descColor=8b949e" />
+# 👋 Hi, I'm Naresh Ashok Mali
 
-</div>
+### Aspiring Software Engineer · Full Stack Developer (MERN) · AI & Linux Enthusiast
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Naresh+👋;Aspiring+Software+Engineer;Full+Stack+Developer+(MERN);AI+%26+Linux+Enthusiast;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Naresh+👋;Aspiring+Software+Engineer;Full+Stack+Developer+(MERN);AI+%26+Linux+Enthusiast;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -109,7 +107,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NARESH-ASHOK-MALI&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
