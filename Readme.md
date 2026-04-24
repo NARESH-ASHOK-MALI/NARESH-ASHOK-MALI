@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coding-gif.gif" align="right" width="320" alt="coding animation"/>
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coding-gif.gif" align="right" width="400" alt="coding animation"/>
 
 - 🎓 **Education:** B.E. in Computer Engineering — *Dr. D. Y. Patil Institute of Technology* | **CGPA: 9.17**
 - 💻 **Tech Stack:** MERN Stack · Java · C++ · Python
