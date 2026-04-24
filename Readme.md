@@ -90,8 +90,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=NARESH-ASHOK-MALI&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-
 **✨ Thanks for visiting! Drop a ⭐ if you like my work!**
 
 </div>
