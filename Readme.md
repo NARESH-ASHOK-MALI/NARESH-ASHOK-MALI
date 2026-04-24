@@ -1,38 +1,118 @@
-<h1 align="center">Hi there, I'm Naresh Ashok Mali 👋</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer (MERN) | AI & Linux Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/naresh-ashok-mali" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nareshofficeonly@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Naresh%20Ashok%20Mali&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Linux%20Enthusiast&descAlignY=58&descColor=8b949e" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Naresh+👋;Aspiring+Software+Engineer;Full+Stack+Developer+(MERN);AI+%26+Linux+Enthusiast;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coding-gif.gif" align="right" width="350" alt="coding animation"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naresh-ashok-mali)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nareshofficeonly@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nareshashokmali/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nareshashokmali/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1bEnjmpDYWzeXXOb3CCQzIYlXkOGhdYXz/view?usp=drive_link)
 
-* 🎓 **Education:** Pursuing a B.E. in Computer Engineering at Dr. D. Y. Patil Institute of Technology (CGPA: 9.17).
-* 💻 **Tech Stack:** Experienced in full-stack development using the MERN stack, alongside Java, C++, and Python.
-* 🚀 **Impactful Projects:** Built platforms like the **JanConnect** PM-AJAY Scheme Management Portal, **NagarSeva**, and the natural language-to-database tool, **Voice2SQL**.
-* 🤖 **Current Focus:** Experimenting with local AI models (like Gemma) and optimizing workflows using WSL2, Ubuntu, and PowerShell automation.
+</div>
 
-<br>
+---
 
-### 🛠️ Skills & Tools
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,java,cpp,python,js,html,css,git,github,linux,vscode" />
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coding-gif.gif" align="right" width="320" alt="coding animation"/>
 
-### 📊 GitHub Stats
+- 🎓 **Education:** B.E. in Computer Engineering — *Dr. D. Y. Patil Institute of Technology* | **CGPA: 9.17**
+- 💻 **Tech Stack:** MERN Stack · Java · C++ · Python
+- 🚀 **Impactful Projects:** Built **JanConnect** (PM-AJAY Portal), **NagarSeva**, **SyncWave**, **FlowBit AI**, and **Voice2SQL**
+- 🤖 **Current Focus:** Local AI models (Gemma), WSL2 + Ubuntu + PowerShell automation
+- 🏆 **LeetCode:** Actively solving DSA problems — [nareshashokmali](https://leetcode.com/u/nareshashokmali/)
+- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1bEnjmpDYWzeXXOb3CCQzIYlXkOGhdYXz/view?usp=drive_link)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NARESH-ASHOK-MALI&show_icons=true&theme=radical" alt="Naresh's GitHub Stats" />
-</p>
+<br clear="right"/>
+
+---
+
+## 🛠️ Skills & Tools
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,java,cpp,python,js,html,css,git,github,linux,vscode&perline=8)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 Live Projects
+
+<div align="center">
+
+| 🌐 Project | 📝 Description | 🔗 Live |
+|:---:|:---:|:---:|
+| 🌳 **NagarSeva** | Smart civic grievance & waste management portal | [![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://nagar-seva-green.vercel.app/) |
+| 🎵 **SyncWave** | Real-time music sync & collaboration platform | [![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://sync-wave-iota.vercel.app/) |
+| 🤖 **FlowBit AI** | AI-powered productivity dashboard & workflow tool | [![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://flowbit-ai-web-vert.vercel.app/dashboard) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NARESH-ASHOK-MALI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10" height="180" alt="Naresh's GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARESH-ASHOK-MALI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10" height="180" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NARESH-ASHOK-MALI&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NARESH-ASHOK-MALI&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&radius=8" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NARESH-ASHOK-MALI&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nareshashokmali?theme=dark&font=Fira%20Code&ext=activity)](https://leetcode.com/u/nareshashokmali/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=NARESH-ASHOK-MALI&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+**✨ Thanks for visiting! Drop a ⭐ if you like my work!**
+
+</div>
