@@ -55,7 +55,6 @@
 |:---:|:---:|:---:|
 | 🌳 **NagarSeva** | Smart civic grievance & waste management portal | [![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://nagar-seva-green.vercel.app/) |
 | 🎵 **SyncWave** | Real-time music sync & collaboration platform | [![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://sync-wave-iota.vercel.app/) |
-| 🤖 **FlowBit AI** | AI-powered productivity dashboard & workflow tool | [![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://flowbit-ai-web-vert.vercel.app/dashboard) |
 
 </div>
 
