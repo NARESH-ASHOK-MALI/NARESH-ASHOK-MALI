@@ -65,31 +65,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NARESH-ASHOK-MALI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10" height="180" alt="Naresh's GitHub Stats"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARESH-ASHOK-MALI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10" height="180" alt="Top Languages"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NARESH-ASHOK-MALI&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NARESH-ASHOK-MALI&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" height="180" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NARESH-ASHOK-MALI&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&radius=8" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NARESH-ASHOK-MALI&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -106,8 +90,6 @@
 ---
 
 <div align="center">
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NARESH-ASHOK-MALI&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
