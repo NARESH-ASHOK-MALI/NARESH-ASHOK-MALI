@@ -29,7 +29,6 @@
 - 🎓 **Education:** B.E. in Computer Engineering — *Dr. D. Y. Patil Institute of Technology* | **CGPA: 9.17**
 - 💻 **Tech Stack:** MERN Stack · Java · C++ · Python
 - 🚀 **Impactful Projects:** Built **JanConnect** (PM-AJAY Portal), **NagarSeva**, **SyncWave**, **FlowBit AI**, and **Voice2SQL**
-- 🤖 **Current Focus:** Local AI models (Gemma), WSL2 + Ubuntu + PowerShell automation
 - 🏆 **LeetCode:** Actively solving DSA problems — [nareshashokmali](https://leetcode.com/u/nareshashokmali/)
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/1bEnjmpDYWzeXXOb3CCQzIYlXkOGhdYXz/view?usp=drive_link)
 
