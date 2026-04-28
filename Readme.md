@@ -81,6 +81,9 @@
 
 <div align="center">
 
+[![Current Streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fnareshashokmali%2Fcalendar&query=%24.streak&label=%F0%9F%94%A5%20Current%20Streak&suffix=%20days&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nareshashokmali/)
+[![Longest Streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fnareshashokmali%2Fcalendar&query=%24.totalActiveDays&label=%F0%9F%8F%86%20Total%20Active%20Days&suffix=%20days&color=00b8a3&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nareshashokmali/)
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nareshashokmali?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/nareshashokmali/)
 
 </div>
