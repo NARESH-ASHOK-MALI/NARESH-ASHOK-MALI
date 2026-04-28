@@ -65,7 +65,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARESH-ASHOK-MALI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10" height="180" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=NARESH-ASHOK-MALI&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" height="180" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=NARESH-ASHOK-MALI&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" height="180" alt="GitHub Streak" />
 
 </div>
 
