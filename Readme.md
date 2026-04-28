@@ -83,8 +83,6 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nareshashokmali?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/nareshashokmali/)
 
-[![LeetCode Streak](https://leetcard.jacoblin.cool/nareshashokmali?theme=dark&font=Fira%20Code&ext=activity)](https://leetcode.com/u/nareshashokmali/)
-
 </div>
 
 ---
