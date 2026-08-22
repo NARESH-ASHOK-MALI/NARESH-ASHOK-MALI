@@ -26,7 +26,7 @@
 
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coding-gif.gif" align="right" width="200" alt="coding animation"/>
 
-- 🎓 **Education:** B.E. in Computer Engineering — *Dr. D. Y. Patil Institute of Technology* | **CGPA: 9.17**
+- 🎓 **Education:** B.E. in Computer Engineering — *Dr. D. Y. Patil Institute of Technology* | **CGPA: 9.14**
 - 💻 **Tech Stack:** MERN Stack · Java · C++ · Python
 - 🚀 **Impactful Projects:** Built **JanConnect** (PM-AJAY Portal), **NagarSeva**, **SyncWave**, **FlowBit AI**, and **Voice2SQL**
 - 🏆 **LeetCode:** Actively solving DSA problems — [nareshashokmali](https://leetcode.com/u/nareshashokmali/)
